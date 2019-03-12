@@ -1,0 +1,347 @@
+,Neighborhood,Sectors,Population,Pop % of City,Major Roads,Street Density,Major Crime Report,Crime %,# Playgrounds,Jobs:Construction,Jobs:Manufacturing,Jobs:Retail,Jobs:Transportation,Jobs:Information,Jobs: Finance,Jobs:Science,Jobs:Educ,Jobs: Arits,Jobs: Public,Park,Playground,Street,Maintenance_responsibility,Address,Price,Beds,Baths
+0,East Allegheny,3.0,933.0,0.0,2.23,19.7,71.0,7.6,4.0,0.03,0.02,0.12,0.0,0.0,0.1,0.05,0.43,0.2,0.01,Allegheny Commons,Deer Pit Playground,W OHIO ST,Parks - Northern,304 30th St,309000.0,3.0,2.0
+1,Allentown,6.0,2500.0,0.01,1.65,41.8,159.0,6.4,0.0,0.04,0.08,0.12,0.06,0.02,0.08,0.13,0.28,0.11,0.01,Emerald View Park - Grandview Park,Grandview Playground,MCLAIN ST,Parks - Southern,,,,
+2,Arlington,7.0,1869.0,0.01,0.86,22.8,50.0,2.7,0.0,0.07,0.13,0.12,0.02,0.05,0.01,0.09,0.27,0.08,0.0,,,,,102 Eads St,39900.0,3.0,2.0
+3,Arlington,7.0,1869.0,0.01,0.86,22.8,50.0,2.7,0.0,0.07,0.13,0.12,0.02,0.05,0.01,0.09,0.27,0.08,0.0,,,,,2426 Spring St,59900.0,5.0,0.0
+4,Arlington,7.0,1869.0,0.01,0.86,22.8,50.0,2.7,0.0,0.07,0.13,0.12,0.02,0.05,0.01,0.09,0.27,0.08,0.0,,,,,2015 Norte Way,34999.0,2.0,1.0
+5,Arlington,7.0,1869.0,0.01,0.86,22.8,50.0,2.7,0.0,0.07,0.13,0.12,0.02,0.05,0.01,0.09,0.27,0.08,0.0,,,,,2328 Elsie St,14900.0,1.0,1.0
+6,Arlington Heights,7.0,244.0,0.0,0.0,8.2,19.0,7.8,0.0,0.0,0.0,0.14,0.0,0.0,0.29,0.0,0.18,0.28,0.0,,,,,,,,
+7,Banksville,5.0,4144.0,0.01,5.99,18.9,62.0,1.5,1.0,0.05,0.05,0.11,0.02,0.02,0.11,0.12,0.21,0.1,0.08,Banksville Park,Banksville Playground,CRANE AVE,Parks - Western,,,,
+8,Bedford Dwellings,15.0,1202.0,0.0,0.97,25.1,42.0,3.5,1.0,0.0,0.07,0.0,0.12,0.0,0.03,0.02,0.55,0.02,0.06,Ammon Park,Ammon Playground,MEMORY LN,Parks - Schenley,,,,
+9,Beechview,5.0,7974.0,0.03,6.42,21.1,193.0,2.4,5.0,0.06,0.06,0.12,0.03,0.03,0.08,0.09,0.25,0.17,0.05,Able Long Park,Able Long Playground,COAST AVE,Parks - Western,1610 Methyl St,49900.0,3.0,1.0
+10,Beechview,5.0,7974.0,0.03,6.42,21.1,193.0,2.4,5.0,0.06,0.06,0.12,0.03,0.03,0.08,0.09,0.25,0.17,0.05,Able Long Park,Able Long Playground,COAST AVE,Parks - Western,342 Mayville Ave,125000.0,2.0,1.0
+11,Beltzhoover,6.0,1925.0,0.01,3.32,41.0,83.0,4.3,3.0,0.0,0.01,0.14,0.11,0.08,0.15,0.11,0.22,0.09,0.01,McKinley Park,Mckinley Bausman Playground,BAUSMAN ST,Parks - Southern,265 Boggston Ave,24700.0,2.0,1.0
+12,Bloomfield,12.0,8442.0,0.03,3.8,45.2,453.0,5.4,2.0,0.03,0.05,0.09,0.02,0.04,0.04,0.09,0.36,0.16,0.02,Osceola Park,Osceola Playground,OSCEOLA ST,Parks - Northeast,4777 Yew,349900.0,4.0,2.0
+13,Bluff,15.0,6600.0,0.02,9.08,50.4,105.0,1.6,1.0,0.0,0.04,0.19,0.01,0.03,0.03,0.06,0.35,0.3,0.0,Tustin Park,Tustin Playground,TUSTIN ST,Parks - Schenley,,,,
+14,Bon Air,6.0,808.0,0.0,1.67,29.3,26.0,3.2,1.0,0.15,0.07,0.21,0.03,0.02,0.09,0.11,0.17,0.04,0.05,Bon Air Park,Bon Air Playground,CALLE AVE,Parks - Southern,,,,
+15,Brighton Heights,2.0,7247.0,0.02,4.19,26.4,241.0,3.3,2.0,0.02,0.06,0.12,0.05,0.03,0.12,0.1,0.26,0.09,0.07,Brighton Heights Park,Brighton Heights Playground,BRIGHTON WOODS RD,Parks - Northern,3261 Langfitt Ave,70000.0,2.0,1.0
+16,Brighton Heights,2.0,7247.0,0.02,4.19,26.4,241.0,3.3,2.0,0.02,0.06,0.12,0.05,0.03,0.12,0.1,0.26,0.09,0.07,Brighton Heights Park,Brighton Heights Playground,BRIGHTON WOODS RD,Parks - Northern,1022 Rothpletz St,175000.0,3.0,2.0
+17,Brighton Heights,2.0,7247.0,0.02,4.19,26.4,241.0,3.3,2.0,0.02,0.06,0.12,0.05,0.03,0.12,0.1,0.26,0.09,0.07,Brighton Heights Park,Brighton Heights Playground,BRIGHTON WOODS RD,Parks - Northern,4012 Drexel Rd,149900.0,3.0,2.0
+18,Brookline,5.0,13214.0,0.04,9.15,27.3,241.0,1.8,2.0,0.07,0.04,0.09,0.07,0.02,0.07,0.11,0.25,0.11,0.08,Brookline Memorial Park,Brookline Playground,OAKRIDGE ST,Parks - Southern,725 Berkshire,199000.0,4.0,0.0
+19,Brookline,5.0,13214.0,0.04,9.15,27.3,241.0,1.8,2.0,0.07,0.04,0.09,0.07,0.02,0.07,0.11,0.25,0.11,0.08,Brookline Memorial Park,Brookline Playground,OAKRIDGE ST,Parks - Southern,2322 Freedom Ave,155000.0,4.0,2.0
+20,Brookline,5.0,13214.0,0.04,9.15,27.3,241.0,1.8,2.0,0.07,0.04,0.09,0.07,0.02,0.07,0.11,0.25,0.11,0.08,Brookline Memorial Park,Brookline Playground,OAKRIDGE ST,Parks - Southern,162 Aidan Ct,215000.0,3.0,2.0
+21,Brookline,5.0,13214.0,0.04,9.15,27.3,241.0,1.8,2.0,0.07,0.04,0.09,0.07,0.02,0.07,0.11,0.25,0.11,0.08,Brookline Memorial Park,Brookline Playground,OAKRIDGE ST,Parks - Southern,1105 Woodbourne Ave,40280.0,3.0,1.0
+22,Brookline,5.0,13214.0,0.04,9.15,27.3,241.0,1.8,2.0,0.07,0.04,0.09,0.07,0.02,0.07,0.11,0.25,0.11,0.08,Brookline Memorial Park,Brookline Playground,OAKRIDGE ST,Parks - Southern,784 Southcrest Dr,206900.0,3.0,1.0
+23,Brookline,5.0,13214.0,0.04,9.15,27.3,241.0,1.8,2.0,0.07,0.04,0.09,0.07,0.02,0.07,0.11,0.25,0.11,0.08,Brookline Memorial Park,Brookline Playground,OAKRIDGE ST,Parks - Southern,915 Rossmore,134900.0,3.0,2.0
+24,Brookline,5.0,13214.0,0.04,9.15,27.3,241.0,1.8,2.0,0.07,0.04,0.09,0.07,0.02,0.07,0.11,0.25,0.11,0.08,Brookline Memorial Park,Brookline Playground,OAKRIDGE ST,Parks - Southern,202 Capital Ave,189900.0,3.0,2.0
+25,Brookline,5.0,13214.0,0.04,9.15,27.3,241.0,1.8,2.0,0.07,0.04,0.09,0.07,0.02,0.07,0.11,0.25,0.11,0.08,Brookline Memorial Park,Brookline Playground,OAKRIDGE ST,Parks - Southern,1526 Woodbourne,159900.0,3.0,1.0
+26,Brookline,5.0,13214.0,0.04,9.15,27.3,241.0,1.8,2.0,0.07,0.04,0.09,0.07,0.02,0.07,0.11,0.25,0.11,0.08,Brookline Memorial Park,Brookline Playground,OAKRIDGE ST,Parks - Southern,2320 Wolford St,129888.0,3.0,2.0
+27,California-Kirkbride,3.0,761.0,0.0,1.58,29.4,64.0,8.4,0.0,0.0,0.23,0.04,0.0,0.18,0.07,0.06,0.42,0.0,0.0,,,,,,,,
+28,Carrick,5.0,10113.0,0.03,6.56,27.5,453.0,4.5,3.0,0.05,0.09,0.13,0.07,0.04,0.07,0.11,0.24,0.09,0.04,Leolyn Park,Leolyn Playground,LEOLYN ST,Parks - Southern,18 Newett St,194000.0,3.0,2.0
+29,Central Business District,16.0,3629.0,0.01,13.55,48.2,789.0,21.7,1.0,0.02,0.07,0.06,0.03,0.07,0.12,0.12,0.28,0.13,0.0,,,,,,,,
+30,Lawrenceville,13.0,4482.0,0.01,2.53,19.0,177.0,3.9,2.0,0.04,0.06,0.07,0.08,0.03,0.02,0.11,0.28,0.09,0.02,Leslie Park,Leslie Playground,46TH ST,Parks - Northeast,3937 Mintwood St,225000.0,4.0,2.0
+31,Lawrenceville,13.0,4482.0,0.01,2.53,19.0,177.0,3.9,2.0,0.04,0.06,0.07,0.08,0.03,0.02,0.11,0.28,0.09,0.02,Leslie Park,Leslie Playground,46TH ST,Parks - Northeast,5551 Butler St Unit D+,598900.0,4.0,3.0
+32,Lawrenceville,13.0,4482.0,0.01,2.53,19.0,177.0,3.9,2.0,0.04,0.06,0.07,0.08,0.03,0.02,0.11,0.28,0.09,0.02,Leslie Park,Leslie Playground,46TH ST,Parks - Northeast,5571 Butler St Unit D,539700.0,4.0,3.0
+33,Lawrenceville,13.0,4482.0,0.01,2.53,19.0,177.0,3.9,2.0,0.04,0.06,0.07,0.08,0.03,0.02,0.11,0.28,0.09,0.02,Leslie Park,Leslie Playground,46TH ST,Parks - Northeast,156 56th St Unit A2+,499900.0,3.0,3.0
+34,Lawrenceville,13.0,4482.0,0.01,2.53,19.0,177.0,3.9,2.0,0.04,0.06,0.07,0.08,0.03,0.02,0.11,0.28,0.09,0.02,Leslie Park,Leslie Playground,46TH ST,Parks - Northeast,164 56th St Unit B,459700.0,3.0,3.0
+35,Lawrenceville,13.0,4482.0,0.01,2.53,19.0,177.0,3.9,2.0,0.04,0.06,0.07,0.08,0.03,0.02,0.11,0.28,0.09,0.02,Leslie Park,Leslie Playground,46TH ST,Parks - Northeast,5407 Carnegie,336000.0,3.0,2.0
+36,Lawrenceville,13.0,4482.0,0.01,2.53,19.0,177.0,3.9,2.0,0.04,0.06,0.07,0.08,0.03,0.02,0.11,0.28,0.09,0.02,Leslie Park,Leslie Playground,46TH ST,Parks - Northeast,5300 Mccandless Ave,825000.0,4.0,4.0
+37,Lawrenceville,13.0,4482.0,0.01,2.53,19.0,177.0,3.9,2.0,0.04,0.06,0.07,0.08,0.03,0.02,0.11,0.28,0.09,0.02,Leslie Park,Leslie Playground,46TH ST,Parks - Northeast,349 Fisk,289000.0,5.0,1.0
+38,Lawrenceville,13.0,4482.0,0.01,2.53,19.0,177.0,3.9,2.0,0.04,0.06,0.07,0.08,0.03,0.02,0.11,0.28,0.09,0.02,Leslie Park,Leslie Playground,46TH ST,Parks - Northeast,421 52nd St,325000.0,4.0,0.0
+39,Lawrenceville,13.0,4482.0,0.01,2.53,19.0,177.0,3.9,2.0,0.04,0.06,0.07,0.08,0.03,0.02,0.11,0.28,0.09,0.02,Leslie Park,Leslie Playground,46TH ST,Parks - Northeast,5256 Carnegie St,469000.0,3.0,2.0
+40,Lawrenceville,13.0,4482.0,0.01,2.53,19.0,177.0,3.9,2.0,0.04,0.06,0.07,0.08,0.03,0.02,0.11,0.28,0.09,0.02,Leslie Park,Leslie Playground,46TH ST,Parks - Northeast,3914 Howley St,449000.0,3.0,2.0
+41,Lawrenceville,13.0,4482.0,0.01,2.53,19.0,177.0,3.9,2.0,0.04,0.06,0.07,0.08,0.03,0.02,0.11,0.28,0.09,0.02,Leslie Park,Leslie Playground,46TH ST,Parks - Northeast,223 40th St,449500.0,4.0,2.0
+42,Lawrenceville,13.0,4482.0,0.01,2.53,19.0,177.0,3.9,2.0,0.04,0.06,0.07,0.08,0.03,0.02,0.11,0.28,0.09,0.02,Leslie Park,Leslie Playground,46TH ST,Parks - Northeast,176 38th St,290000.0,2.0,2.0
+43,Lawrenceville,13.0,4482.0,0.01,2.53,19.0,177.0,3.9,2.0,0.04,0.06,0.07,0.08,0.03,0.02,0.11,0.28,0.09,0.02,Leslie Park,Leslie Playground,46TH ST,Parks - Northeast,519 1/2 53rd St,127500.0,2.0,1.0
+44,Lawrenceville,13.0,4482.0,0.01,2.53,19.0,177.0,3.9,2.0,0.04,0.06,0.07,0.08,0.03,0.02,0.11,0.28,0.09,0.02,Leslie Park,Leslie Playground,46TH ST,Parks - Northeast,3644 Penn Ave #301,285000.0,1.0,1.0
+45,Lawrenceville,13.0,4482.0,0.01,2.53,19.0,177.0,3.9,2.0,0.04,0.06,0.07,0.08,0.03,0.02,0.11,0.28,0.09,0.02,Leslie Park,Leslie Playground,46TH ST,Parks - Northeast,4119 Foster St,215000.0,3.0,1.0
+46,Central Northside,3.0,2923.0,0.01,1.81,47.0,118.0,4.0,1.0,0.01,0.08,0.15,0.04,0.05,0.1,0.1,0.28,0.1,0.02,Alpine Gardens Park,Alpine Playground,ALPINE AVE,Parks - Northern,,,,
+47,Oakland,14.0,6086.0,0.02,1.12,33.8,236.0,3.9,2.0,0.02,0.01,0.14,0.01,0.06,0.03,0.04,0.41,0.23,0.03,Boundary Street Park,Boundary Street Playground,BOUNDARY ST,Parks - Schenley,3244 Ward St,249900.0,3.0,2.0
+48,Oakland,14.0,6086.0,0.02,1.12,33.8,236.0,3.9,2.0,0.02,0.01,0.14,0.01,0.06,0.03,0.04,0.41,0.23,0.03,Boundary Street Park,Boundary Street Playground,BOUNDARY ST,Parks - Schenley,3438 Frazier St,30000.0,0.0,0.0
+49,Oakland,14.0,6086.0,0.02,1.12,33.8,236.0,3.9,2.0,0.02,0.01,0.14,0.01,0.06,0.03,0.04,0.41,0.23,0.03,Boundary Street Park,Boundary Street Playground,BOUNDARY ST,Parks - Schenley,146 N Bellefield #1203,565000.0,3.0,2.0
+50,Oakland,14.0,6086.0,0.02,1.12,33.8,236.0,3.9,2.0,0.02,0.01,0.14,0.01,0.06,0.03,0.04,0.41,0.23,0.03,Boundary Street Park,Boundary Street Playground,BOUNDARY ST,Parks - Schenley,220 N Dithridge St #405,339000.0,2.0,2.0
+51,Oakland,14.0,6086.0,0.02,1.12,33.8,236.0,3.9,2.0,0.02,0.01,0.14,0.01,0.06,0.03,0.04,0.41,0.23,0.03,Boundary Street Park,Boundary Street Playground,BOUNDARY ST,Parks - Schenley,3764 Bigelow Blvd,189900.0,3.0,2.0
+52,Oakland,14.0,6086.0,0.02,1.12,33.8,236.0,3.9,2.0,0.02,0.01,0.14,0.01,0.06,0.03,0.04,0.41,0.23,0.03,Boundary Street Park,Boundary Street Playground,BOUNDARY ST,Parks - Schenley,307 S Dithridge #410,325000.0,2.0,2.0
+53,Oakland,14.0,6086.0,0.02,1.12,33.8,236.0,3.9,2.0,0.02,0.01,0.14,0.01,0.06,0.03,0.04,0.41,0.23,0.03,Boundary Street Park,Boundary Street Playground,BOUNDARY ST,Parks - Schenley,4601 Fifth Ave #326,155000.0,2.0,2.0
+54,Chartiers City,4.0,477.0,0.0,0.35,32.8,9.0,1.9,0.0,0.07,0.05,0.13,0.07,0.0,0.11,0.0,0.39,0.07,0.06,,,,,,,,
+55,Crafton Heights,4.0,3814.0,0.01,3.04,25.6,89.0,2.3,2.0,0.04,0.07,0.11,0.04,0.03,0.1,0.1,0.21,0.09,0.07,Dunbar Park,Dunbar Playground,CLAIRHAVEN ST,Parks - Western,1663 Steuben,149000.0,3.0,2.0
+56,Crawford-Roberts,15.0,2256.0,0.01,1.57,43.0,129.0,5.7,3.0,0.0,0.05,0.13,0.09,0.05,0.07,0.02,0.43,0.1,0.04,Albert Turk Graham Park,Albert Graham Playground,FORESIDE PL,Parks - Schenley,,,,
+57,Duquesne Heights,6.0,2425.0,0.01,4.08,22.6,55.0,2.3,0.0,0.01,0.11,0.1,0.09,0.04,0.07,0.26,0.14,0.04,0.09,Emerald View Park - Eileen McCoy Park,Eileen McCoy Playground,SHALER ST,Parks - Western,,,,
+58,East Carnegie,4.0,570.0,0.0,0.77,12.9,9.0,1.6,2.0,0.19,0.21,0.0,0.0,0.0,0.0,0.12,0.38,0.0,0.0,East Carnegie Park,East Carnegie Playground,DOOLITTLE ST,Parks - Western,,,,
+59,East Hills,11.0,3169.0,0.01,1.68,27.0,90.0,2.8,0.0,0.03,0.04,0.09,0.05,0.02,0.11,0.09,0.3,0.11,0.07,,,,,,,,
+60,East Liberty,12.0,5869.0,0.02,4.59,36.4,488.0,8.3,0.0,0.01,0.09,0.09,0.03,0.02,0.13,0.07,0.41,0.08,0.02,Enright Park,Enright Playground,EVA ST,Parks - Northeast,5533 Columbo St,299000.0,4.0,0.0
+61,East Liberty,12.0,5869.0,0.02,4.59,36.4,488.0,8.3,0.0,0.01,0.09,0.09,0.03,0.02,0.13,0.07,0.41,0.08,0.02,Enright Park,Enright Playground,EVA ST,Parks - Northeast,700 Collins Ave,259000.0,4.0,4.0
+62,East Liberty,12.0,5869.0,0.02,4.59,36.4,488.0,8.3,0.0,0.01,0.09,0.09,0.03,0.02,0.13,0.07,0.41,0.08,0.02,Enright Park,Enright Playground,EVA ST,Parks - Northeast,6716 Atwell St,64900.0,2.0,1.0
+63,East Liberty,12.0,5869.0,0.02,4.59,36.4,488.0,8.3,0.0,0.01,0.09,0.09,0.03,0.02,0.13,0.07,0.41,0.08,0.02,Enright Park,Enright Playground,EVA ST,Parks - Northeast,633 Collins Ave,189000.0,6.0,2.0
+64,Elliott,4.0,2381.0,0.01,4.06,31.4,105.0,4.4,3.0,0.04,0.17,0.02,0.04,0.0,0.11,0.16,0.19,0.1,0.04,Herschel Park,Herschel Playground,HERSCHEL ST,Parks - Western,915 Valonia St,49900.0,3.0,2.0
+65,Elliott,4.0,2381.0,0.01,4.06,31.4,105.0,4.4,3.0,0.04,0.17,0.02,0.04,0.0,0.11,0.16,0.19,0.1,0.04,Herschel Park,Herschel Playground,HERSCHEL ST,Parks - Western,1004 Herschel St,14900.0,2.0,1.0
+66,Esplen,4.0,301.0,0.0,1.42,18.7,31.0,10.3,1.0,0.0,0.0,0.23,0.0,0.0,0.0,0.12,0.38,0.15,0.0,Esplen Park,Esplen Playground,ESPLEN ST,Parks - Western,,,,
+67,Fairywood,4.0,1002.0,0.0,1.4,9.4,3.0,0.3,1.0,0.11,0.0,0.0,0.0,0.24,0.0,0.25,0.27,0.07,0.0,Fairywood Park,Fairywood Playground,VILLAGE RD,Parks - Western,,,,
+68,Fineview,3.0,1285.0,0.0,0.65,34.0,70.0,5.4,1.0,0.02,0.02,0.15,0.06,0.03,0.06,0.08,0.37,0.05,0.02,Fineview Park,Fineview Playground,FINEVIEW AVE,Parks - Northern,,,,
+69,Friendship,12.0,1785.0,0.01,0.57,41.5,89.0,5.0,0.0,0.03,0.05,0.14,0.01,0.03,0.05,0.04,0.39,0.14,0.04,,,,,,,,
+70,Garfield,12.0,3675.0,0.01,1.25,36.0,182.0,5.0,2.0,0.05,0.05,0.09,0.05,0.0,0.09,0.05,0.36,0.08,0.08,Fort Pitt Park,Fort Pitt Playground,HILLCREST ST,Parks - Northeast,5008 Dearborn,122000.0,4.0,0.0
+71,Garfield,12.0,3675.0,0.01,1.25,36.0,182.0,5.0,2.0,0.05,0.05,0.09,0.05,0.0,0.09,0.05,0.36,0.08,0.08,Fort Pitt Park,Fort Pitt Playground,HILLCREST ST,Parks - Northeast,5010 Dearborn,122000.0,4.0,0.0
+72,Garfield,12.0,3675.0,0.01,1.25,36.0,182.0,5.0,2.0,0.05,0.05,0.09,0.05,0.0,0.09,0.05,0.36,0.08,0.08,Fort Pitt Park,Fort Pitt Playground,HILLCREST ST,Parks - Northeast,5211 Dearborn St,149900.0,4.0,2.0
+73,Garfield,12.0,3675.0,0.01,1.25,36.0,182.0,5.0,2.0,0.05,0.05,0.09,0.05,0.0,0.09,0.05,0.36,0.08,0.08,Fort Pitt Park,Fort Pitt Playground,HILLCREST ST,Parks - Northeast,5358 Hillcrest St,99900.0,4.0,1.0
+74,Glen Hazel,9.0,716.0,0.0,0.15,5.6,10.0,1.4,0.0,0.0,0.0,0.0,0.27,0.0,0.26,0.38,0.09,0.0,0.0,,,,,,,,
+75,Greenfield,9.0,7294.0,0.02,3.88,36.0,145.0,2.0,2.0,0.05,0.04,0.08,0.06,0.03,0.05,0.16,0.31,0.07,0.05,Four Mile Run Park,Four Mile Run Playground,SALINE ST,Parks - Schenley,217 Bigelow St,187000.0,3.0,2.0
+76,Greenfield,9.0,7294.0,0.02,3.88,36.0,145.0,2.0,2.0,0.05,0.04,0.08,0.06,0.03,0.05,0.16,0.31,0.07,0.05,Four Mile Run Park,Four Mile Run Playground,SALINE ST,Parks - Schenley,4224 Lydia St,189900.0,3.0,2.0
+77,Greenfield,9.0,7294.0,0.02,3.88,36.0,145.0,2.0,2.0,0.05,0.04,0.08,0.06,0.03,0.05,0.16,0.31,0.07,0.05,Four Mile Run Park,Four Mile Run Playground,SALINE ST,Parks - Schenley,4134 Stanley St,179900.0,4.0,2.0
+78,Greenfield,9.0,7294.0,0.02,3.88,36.0,145.0,2.0,2.0,0.05,0.04,0.08,0.06,0.03,0.05,0.16,0.31,0.07,0.05,Four Mile Run Park,Four Mile Run Playground,SALINE ST,Parks - Schenley,0 Bristol,49000.0,0.0,0.0
+79,Greenfield,9.0,7294.0,0.02,3.88,36.0,145.0,2.0,2.0,0.05,0.04,0.08,0.06,0.03,0.05,0.16,0.31,0.07,0.05,Four Mile Run Park,Four Mile Run Playground,SALINE ST,Parks - Schenley,4300 Bristol,124900.0,2.0,1.0
+80,Greenfield,9.0,7294.0,0.02,3.88,36.0,145.0,2.0,2.0,0.05,0.04,0.08,0.06,0.03,0.05,0.16,0.31,0.07,0.05,Four Mile Run Park,Four Mile Run Playground,SALINE ST,Parks - Schenley,641 Montclair St,183000.0,3.0,2.0
+81,Hays,8.0,362.0,0.0,6.45,6.9,15.0,4.1,1.0,0.1,0.14,0.17,0.09,0.0,0.07,0.12,0.0,0.26,0.0,Hays Park,Hays Playground,HILLBURN ST,Parks - Southern,,,,
+82,Hazelwood,9.0,4317.0,0.01,3.61,18.9,159.0,3.7,3.0,0.07,0.03,0.15,0.06,0.01,0.1,0.11,0.2,0.17,0.04,Bud Hammer Park,Bud Hammer Playground,BIGELOW ST,Parks - Schenley,203 Glen Caladh St,12000.0,2.0,1.0
+83,Highland Park,12.0,6395.0,0.02,5.73,23.3,182.0,2.8,4.0,0.01,0.03,0.09,0.0,0.02,0.09,0.11,0.47,0.07,0.03,Highland Park,Farmhouse Playground,FARMHOUSE RD,Parks - Northeast,6345 Stanton Ave,299999.0,5.0,2.0
+84,Highland Park,12.0,6395.0,0.02,5.73,23.3,182.0,2.8,4.0,0.01,0.03,0.09,0.0,0.02,0.09,0.11,0.47,0.07,0.03,Highland Park,Farmhouse Playground,FARMHOUSE RD,Parks - Northeast,6331 Glenview Pl,225000.0,4.0,1.0
+85,Homewood-Brushton,11.0,3280.0,0.01,1.76,38.7,198.0,6.0,1.0,0.0,0.1,0.2,0.05,0.06,0.07,0.01,0.33,0.1,0.03,Baxter Park,Baxter Playground,FRANKSTOWN AVE,Parks - Eastern,7821 Formosa Way,7500.0,0.0,0.0
+86,Knoxville,6.0,3747.0,0.01,1.2,47.7,223.0,6.0,0.0,0.02,0.09,0.09,0.02,0.05,0.07,0.1,0.32,0.1,0.06,,,,,,,,
+87,Larimer,12.0,1728.0,0.01,2.93,35.5,139.0,8.0,1.0,0.05,0.0,0.14,0.06,0.01,0.07,0.07,0.35,0.14,0.07,Larimer Park,Larimer Playground,LENORA ST,Parks - Eastern,,,,
+88,Lincoln Place,8.0,3227.0,0.01,2.95,22.3,32.0,1.0,2.0,0.07,0.04,0.17,0.04,0.0,0.09,0.12,0.22,0.06,0.07,Lincoln Place Park,Lincoln Place Playground,COX AVE,Parks - Southern,,,,
+89,Lincoln-Lemington-Belmar,11.0,4883.0,0.02,6.31,16.8,133.0,2.7,2.0,0.03,0.04,0.1,0.01,0.05,0.07,0.1,0.36,0.05,0.1,Chadwick Park,Chadwick Playground,OBERLIN ST,Parks - Eastern,,,,
+90,Manchester,3.0,2130.0,0.01,2.16,39.9,69.0,3.2,2.0,0.08,0.04,0.02,0.1,0.05,0.07,0.15,0.27,0.08,0.03,Manchester Park,Manchester Playground,FULTON ST,Parks - Northern,1410 Pennsylvania Ave,685000.0,4.0,4.0
+91,Marshall-Shadeland,2.0,6043.0,0.02,7.06,19.6,222.0,3.7,2.0,0.06,0.05,0.14,0.04,0.02,0.07,0.03,0.31,0.16,0.02,Marshall-California Park,Marshall-California Playground,ATMORE ST,Parks - Northern,,,,
+92,Middle Hill,15.0,1707.0,0.01,0.94,43.5,114.0,6.7,1.0,0.0,0.03,0.01,0.0,0.04,0.1,0.08,0.51,0.04,0.01,Vincennes Park,Vincennes Playground,WANDLESS ST,Parks - Schenley,,,,
+93,Morningside,12.0,3346.0,0.01,1.94,39.9,67.0,2.0,2.0,0.03,0.02,0.1,0.03,0.01,0.08,0.08,0.34,0.13,0.05,Heth's Park,Heth's Playground,HAMPTON ST,Parks - Northeast,1708 Duffield St,209900.0,3.0,2.0
+94,Morningside,12.0,3346.0,0.01,1.94,39.9,67.0,2.0,2.0,0.03,0.02,0.1,0.03,0.01,0.08,0.08,0.34,0.13,0.05,Heth's Park,Heth's Playground,HAMPTON ST,Parks - Northeast,1810 Chislett St,175000.0,3.0,1.0
+95,Morningside,12.0,3346.0,0.01,1.94,39.9,67.0,2.0,2.0,0.03,0.02,0.1,0.03,0.01,0.08,0.08,0.34,0.13,0.05,Heth's Park,Heth's Playground,HAMPTON ST,Parks - Northeast,1719 Jancey St,239000.0,2.0,2.0
+96,Morningside,12.0,3346.0,0.01,1.94,39.9,67.0,2.0,2.0,0.03,0.02,0.1,0.03,0.01,0.08,0.08,0.34,0.13,0.05,Heth's Park,Heth's Playground,HAMPTON ST,Parks - Northeast,1948 Antietam St,239000.0,3.0,2.0
+97,Morningside,12.0,3346.0,0.01,1.94,39.9,67.0,2.0,2.0,0.03,0.02,0.1,0.03,0.01,0.08,0.08,0.34,0.13,0.05,Heth's Park,Heth's Playground,HAMPTON ST,Parks - Northeast,1611 Jancey St,279900.0,4.0,1.0
+98,Mount Washington,6.0,8799.0,0.03,4.63,30.0,434.0,4.9,3.0,0.02,0.06,0.13,0.04,0.03,0.09,0.14,0.27,0.14,0.03,Emerald View Park - Mt. Washington Park,Mt. Washington Playground,NORTON ST,Parks - Western,,,,
+99,Mt. Oliver,7.0,509.0,0.0,0.74,35.3,12.0,2.4,0.0,0.0,0.08,0.26,0.05,0.0,0.05,0.05,0.15,0.05,0.05,,,,,,,,
+100,New Homestead,8.0,990.0,0.0,0.62,15.2,7.0,0.7,1.0,0.02,0.04,0.25,0.11,0.0,0.06,0.06,0.23,0.02,0.08,Roland Lockridge Community Park,Roland Lockridge Playground,REVENUE ST,Parks - Southern,,,,
+101,North Shore,16.0,303.0,0.0,6.81,44.9,72.0,23.8,0.0,0.15,0.14,0.0,0.0,0.0,0.0,0.21,0.29,0.0,0.0,,,,,,,,
+102,Northview Heights,1.0,1214.0,0.0,3.16,18.5,63.0,5.2,0.0,0.0,0.08,0.15,0.0,0.0,0.15,0.14,0.21,0.07,0.15,,,,,,,,
+103,Oakwood,4.0,1027.0,0.0,1.77,22.7,14.0,1.4,1.0,0.1,0.04,0.1,0.03,0.04,0.04,0.09,0.28,0.1,0.1,Oakwood Park,Oakwood Playground,DURBIN ST,Parks - Western,,,,
+104,Overbrook,5.0,3644.0,0.01,2.66,24.9,73.0,2.0,0.0,0.09,0.08,0.06,0.06,0.02,0.08,0.13,0.26,0.07,0.06,,,,,2027 Dartmore St,139500.0,4.0,2.0
+105,Overbrook,5.0,3644.0,0.01,2.66,24.9,73.0,2.0,0.0,0.09,0.08,0.06,0.06,0.02,0.08,0.13,0.26,0.07,0.06,,,,,308 Elwyn Ave,162000.0,3.0,2.0
+106,Overbrook,5.0,3644.0,0.01,2.66,24.9,73.0,2.0,0.0,0.09,0.08,0.06,0.06,0.02,0.08,0.13,0.26,0.07,0.06,,,,,2628 Library Rd,57900.0,3.0,3.0
+107,Perry Hilltop,2.0,4050.0,0.01,5.56,22.4,112.0,2.8,1.0,0.1,0.06,0.1,0.05,0.04,0.06,0.1,0.31,0.08,0.03,Riverview Park,Riverview Playground,RIVERVIEW AVE,Parks - Northern,420 Marshall Ave,189999.0,4.0,2.0
+108,Perry Hilltop,2.0,4050.0,0.01,5.56,22.4,112.0,2.8,1.0,0.1,0.06,0.1,0.05,0.04,0.06,0.1,0.31,0.08,0.03,Riverview Park,Riverview Playground,RIVERVIEW AVE,Parks - Northern,4045 Portman Ave,75000.0,3.0,2.0
+109,Point Breeze,10.0,5315.0,0.02,5.13,21.2,116.0,2.2,0.0,0.07,0.07,0.03,0.01,0.02,0.07,0.16,0.43,0.06,0.02,,,,,6720 Simonton St,19900.0,0.0,0.0
+110,Point Breeze,10.0,5315.0,0.02,5.13,21.2,116.0,2.2,0.0,0.07,0.07,0.03,0.01,0.02,0.07,0.16,0.43,0.06,0.02,,,,,6829 Penham,750000.0,4.0,3.0
+111,Point Breeze,10.0,5315.0,0.02,5.13,21.2,116.0,2.2,0.0,0.07,0.07,0.03,0.01,0.02,0.07,0.16,0.43,0.06,0.02,,,,,353 Hastings St,499900.0,4.0,3.0
+112,Polish Hill,13.0,1274.0,0.0,1.46,31.4,34.0,2.7,1.0,0.06,0.09,0.24,0.08,0.0,0.03,0.06,0.3,0.11,0.03,West Penn Park,West Penn Playground,30TH ST,Parks - Northeast,,,,
+113,Regent Square,10.0,928.0,0.0,0.46,23.5,38.0,4.1,1.0,0.0,0.13,0.04,0.04,0.04,0.1,0.11,0.46,0.01,0.01,Frick Park,Forbes and Braddock Playground,BRADDOCK AVE,Parks - Eastern,319 West,439000.0,4.0,4.0
+114,Regent Square,10.0,928.0,0.0,0.46,23.5,38.0,4.1,1.0,0.0,0.13,0.04,0.04,0.04,0.1,0.11,0.46,0.01,0.01,Frick Park,Forbes and Braddock Playground,BRADDOCK AVE,Parks - Eastern,403 West,375000.0,4.0,2.0
+115,Ridgemont,4.0,483.0,0.0,3.31,18.4,14.0,2.9,0.0,0.0,0.5,0.04,0.04,0.0,0.12,0.04,0.18,0.0,0.04,,,,,,,,
+116,Shadyside,12.0,13915.0,0.05,4.29,29.6,623.0,4.5,1.0,0.01,0.05,0.06,0.02,0.03,0.08,0.18,0.46,0.07,0.02,Mellon Park,Mellon Playground,FIFTH AVE,Parks - Eastern,6336 Aurelia St,499000.0,4.0,0.0
+117,Shadyside,12.0,13915.0,0.05,4.29,29.6,623.0,4.5,1.0,0.01,0.05,0.06,0.02,0.03,0.08,0.18,0.46,0.07,0.02,Mellon Park,Mellon Playground,FIFTH AVE,Parks - Eastern,5523 Ellsworth Ave Unit 3C,189900.0,2.0,2.0
+118,Shadyside,12.0,13915.0,0.05,4.29,29.6,623.0,4.5,1.0,0.01,0.05,0.06,0.02,0.03,0.08,0.18,0.46,0.07,0.02,Mellon Park,Mellon Playground,FIFTH AVE,Parks - Eastern,5703 Elmer Unit 2B,319900.0,2.0,2.0
+119,Shadyside,12.0,13915.0,0.05,4.29,29.6,623.0,4.5,1.0,0.01,0.05,0.06,0.02,0.03,0.08,0.18,0.46,0.07,0.02,Mellon Park,Mellon Playground,FIFTH AVE,Parks - Eastern,35 Hemingway,349000.0,3.0,2.0
+120,Shadyside,12.0,13915.0,0.05,4.29,29.6,623.0,4.5,1.0,0.01,0.05,0.06,0.02,0.03,0.08,0.18,0.46,0.07,0.02,Mellon Park,Mellon Playground,FIFTH AVE,Parks - Eastern,537 N Neville St Unit 1D/E,2800000.0,3.0,4.0
+121,Shadyside,12.0,13915.0,0.05,4.29,29.6,623.0,4.5,1.0,0.01,0.05,0.06,0.02,0.03,0.08,0.18,0.46,0.07,0.02,Mellon Park,Mellon Playground,FIFTH AVE,Parks - Eastern,5 Bayard Rd #104,149000.0,1.0,1.0
+122,Shadyside,12.0,13915.0,0.05,4.29,29.6,623.0,4.5,1.0,0.01,0.05,0.06,0.02,0.03,0.08,0.18,0.46,0.07,0.02,Mellon Park,Mellon Playground,FIFTH AVE,Parks - Eastern,400 Morewood Ave,749000.0,5.0,4.0
+123,Sheraden,4.0,5299.0,0.02,1.84,35.0,222.0,4.2,4.0,0.09,0.06,0.14,0.06,0.02,0.11,0.11,0.17,0.15,0.04,McGonigle Park,McGonigle Playground,ALLENDALE ST,Parks - Western,3205 Ashlyn St,74900.0,4.0,2.0
+124,Sheraden,4.0,5299.0,0.02,1.84,35.0,222.0,4.2,4.0,0.09,0.06,0.14,0.06,0.02,0.11,0.11,0.17,0.15,0.04,McGonigle Park,McGonigle Playground,ALLENDALE ST,Parks - Western,3233 Faronia St,75000.0,3.0,1.0
+125,Sheraden,4.0,5299.0,0.02,1.84,35.0,222.0,4.2,4.0,0.09,0.06,0.14,0.06,0.02,0.11,0.11,0.17,0.15,0.04,McGonigle Park,McGonigle Playground,ALLENDALE ST,Parks - Western,1401 & 1403 Evanston St,133334.0,4.0,0.0
+126,Sheraden,4.0,5299.0,0.02,1.84,35.0,222.0,4.2,4.0,0.09,0.06,0.14,0.06,0.02,0.11,0.11,0.17,0.15,0.04,McGonigle Park,McGonigle Playground,ALLENDALE ST,Parks - Western,1341 & 1343 Evanston St,133334.0,4.0,0.0
+127,Sheraden,4.0,5299.0,0.02,1.84,35.0,222.0,4.2,4.0,0.09,0.06,0.14,0.06,0.02,0.11,0.11,0.17,0.15,0.04,McGonigle Park,McGonigle Playground,ALLENDALE ST,Parks - Western,1337 & 1339 Evanston St,133334.0,4.0,0.0
+128,South Shore,16.0,19.0,0.0,3.64,37.7,37.0,194.7,0.0,0.0,0.29,0.0,0.0,0.0,0.0,0.0,0.26,0.45,0.0,,,,,,,,
+129,South Side Flats,7.0,6597.0,0.02,4.09,27.7,669.0,10.1,2.0,0.04,0.05,0.09,0.03,0.02,0.11,0.18,0.26,0.15,0.02,Armstrong Park,Armstrong Playground,S 12TH ST,Parks - Southern,,,,
+130,South Side Slopes,7.0,4423.0,0.01,2.53,31.1,210.0,4.7,5.0,0.08,0.06,0.14,0.03,0.02,0.05,0.1,0.19,0.23,0.04,Arlington Park,Arlington Playground,FERNLEAF ST,Parks - Southern,,,,
+131,Spring Garden,1.0,884.0,0.0,1.93,23.8,36.0,4.1,1.0,0.07,0.13,0.02,0.08,0.03,0.1,0.06,0.24,0.11,0.09,Catalano Park,Catalono Playground,SPRING GARDEN AVE,Parks - Northern,,,,
+132,Spring Hill-City View,1.0,2648.0,0.01,1.92,24.1,121.0,4.6,1.0,0.03,0.06,0.13,0.02,0.0,0.09,0.13,0.34,0.1,0.03,Spring Hill Park,Spring Hill Playground,SOUTH SIDE AVE,Parks - Northern,,,,
+133,Squirrel Hill,10.0,11363.0,0.04,8.19,21.7,148.0,1.3,1.0,0.01,0.05,0.05,0.02,0.01,0.06,0.15,0.51,0.06,0.01,Wightman Park,Wightman Playground,SOLWAY ST,Parks - Eastern,3234 Beechwood Blvd,520000.0,5.0,2.0
+134,Squirrel Hill,10.0,11363.0,0.04,8.19,21.7,148.0,1.3,1.0,0.01,0.05,0.05,0.02,0.01,0.06,0.15,0.51,0.06,0.01,Wightman Park,Wightman Playground,SOLWAY ST,Parks - Eastern,414 Schenley Rd,859000.0,3.0,4.0
+135,Squirrel Hill,10.0,11363.0,0.04,8.19,21.7,148.0,1.3,1.0,0.01,0.05,0.05,0.02,0.01,0.06,0.15,0.51,0.06,0.01,Wightman Park,Wightman Playground,SOLWAY ST,Parks - Eastern,6521 Landview Rd,255000.0,3.0,1.0
+136,Squirrel Hill,10.0,11363.0,0.04,8.19,21.7,148.0,1.3,1.0,0.01,0.05,0.05,0.02,0.01,0.06,0.15,0.51,0.06,0.01,Wightman Park,Wightman Playground,SOLWAY ST,Parks - Eastern,1568 Overton Ln,650000.0,3.0,3.0
+137,Squirrel Hill,10.0,11363.0,0.04,8.19,21.7,148.0,1.3,1.0,0.01,0.05,0.05,0.02,0.01,0.06,0.15,0.51,0.06,0.01,Wightman Park,Wightman Playground,SOLWAY ST,Parks - Eastern,1264 Fairstead Ln,925000.0,4.0,4.0
+138,Squirrel Hill,10.0,11363.0,0.04,8.19,21.7,148.0,1.3,1.0,0.01,0.05,0.05,0.02,0.01,0.06,0.15,0.51,0.06,0.01,Wightman Park,Wightman Playground,SOLWAY ST,Parks - Eastern,300 Anita Ave,1199000.0,4.0,4.0
+139,Squirrel Hill,10.0,11363.0,0.04,8.19,21.7,148.0,1.3,1.0,0.01,0.05,0.05,0.02,0.01,0.06,0.15,0.51,0.06,0.01,Wightman Park,Wightman Playground,SOLWAY ST,Parks - Eastern,5446 Aylesboro Ave,1150000.0,7.0,4.0
+140,Squirrel Hill,10.0,11363.0,0.04,8.19,21.7,148.0,1.3,1.0,0.01,0.05,0.05,0.02,0.01,0.06,0.15,0.51,0.06,0.01,Wightman Park,Wightman Playground,SOLWAY ST,Parks - Eastern,6383 -6385 Caton,399900.0,6.0,0.0
+141,Squirrel Hill,10.0,11363.0,0.04,8.19,21.7,148.0,1.3,1.0,0.01,0.05,0.05,0.02,0.01,0.06,0.15,0.51,0.06,0.01,Wightman Park,Wightman Playground,SOLWAY ST,Parks - Eastern,1336 Squirrel Hill Ave,1150000.0,5.0,4.0
+142,Squirrel Hill,10.0,11363.0,0.04,8.19,21.7,148.0,1.3,1.0,0.01,0.05,0.05,0.02,0.01,0.06,0.15,0.51,0.06,0.01,Wightman Park,Wightman Playground,SOLWAY ST,Parks - Eastern,1631 Beechwood Blvd,400000.0,4.0,2.0
+143,St. Clair,7.0,209.0,0.0,1.37,14.1,14.0,6.7,0.0,0.0,0.04,0.22,0.02,0.0,0.09,0.0,0.42,0.14,0.0,,,,,,,,
+144,Stanton Heights,13.0,4601.0,0.02,2.16,27.9,67.0,1.5,1.0,0.04,0.06,0.11,0.04,0.02,0.13,0.1,0.32,0.05,0.05,Dinan Park,Dinan Playground,FARMINGTON ST,Parks - Northeast,5567 Camelia St,199900.0,3.0,2.0
+145,Strip District,13.0,616.0,0.0,5.16,28.5,155.0,25.2,0.0,0.0,0.15,0.07,0.04,0.03,0.15,0.22,0.16,0.05,0.08,Denny Park,Denny Playground,LIBERTY AVE,Parks - Northeast,,,,
+146,Summer Hill,1.0,1051.0,0.0,4.94,28.9,13.0,1.2,0.0,0.13,0.0,0.12,0.1,0.07,0.07,0.0,0.18,0.04,0.25,,,,,258 Chapin St,115000.0,2.0,1.0
+147,Swisshelm Park,10.0,1361.0,0.0,2.04,17.8,28.0,2.1,1.0,0.06,0.01,0.09,0.05,0.02,0.07,0.11,0.39,0.12,0.03,Swisshelm Park,Swisshelm Playground,ONONDAGO ST,Parks - Eastern,,,,
+148,Terrace Village,15.0,3228.0,0.01,0.74,21.7,163.0,5.0,1.0,0.02,0.0,0.06,0.05,0.0,0.02,0.13,0.34,0.3,0.04,Kennard Park,Kennard Playground,KIRKPATRICK ST,Parks - Schenley,,,,
+149,Troy Hill,1.0,2714.0,0.01,2.4,29.6,163.0,6.0,2.0,0.09,0.11,0.12,0.01,0.01,0.18,0.05,0.16,0.14,0.02,Cowley Park,Cowley Playground,GOETTMANN ST,Parks - Northern,939 Itin St,54900.0,4.0,2.0
+150,Upper Hill,15.0,2057.0,0.01,0.77,30.6,45.0,2.2,1.0,0.02,0.02,0.08,0.03,0.04,0.04,0.11,0.46,0.08,0.08,Robert E. Williams Park,Robert E. WIlliams Playground,MILWAUKEE ST,Parks - Schenley,,,,
+151,West End,4.0,254.0,0.0,4.17,35.2,23.0,9.1,1.0,0.0,0.17,0.0,0.0,0.0,0.17,0.19,0.3,0.17,0.0,Wabash Park,Wabash Playground,WABASH ST,Parks - Western,,,,
+152,Banksville/Westwood,4.0,3066.0,0.01,2.41,24.0,57.0,1.9,1.0,0.03,0.17,0.1,0.02,0.01,0.09,0.09,0.27,0.06,0.06,Crafton Heights Park,Crafton Heights Playground,PRESTON ST,Parks - Western,1236 Colescott St,39900.0,3.0,1.0
+153,Banksville/Westwood,4.0,3066.0,0.01,2.41,24.0,57.0,1.9,1.0,0.03,0.17,0.1,0.02,0.01,0.09,0.09,0.27,0.06,0.06,Crafton Heights Park,Crafton Heights Playground,PRESTON ST,Parks - Western,174 Oakbrook Cir,259000.0,4.0,2.0
+154,Banksville/Westwood,4.0,3066.0,0.01,2.41,24.0,57.0,1.9,1.0,0.03,0.17,0.1,0.02,0.01,0.09,0.09,0.27,0.06,0.06,Crafton Heights Park,Crafton Heights Playground,PRESTON ST,Parks - Western,1351 Keever Ave,144900.0,2.0,2.0
+155,Windgap,4.0,1369.0,0.0,1.1,21.5,41.0,3.0,1.0,0.06,0.12,0.23,0.05,0.08,0.07,0.11,0.19,0.06,0.02,Chartiers Park,Chartiers Playground,CHARTIERS AVE,Parks - Western,,,,
+156,Franklin Park,,,,,,,,,,,,,,,,,,,,,,,1542 Field Clb,389900.0,4.0,2.0
+157,Franklin Park,,,,,,,,,,,,,,,,,,,,,,,- Reis Run Rd,165000.0,0.0,0.0
+158,Upper St. Clair,,,,,,,,,,,,,,,,,,,,,,,820 Westgate,329900.0,4.0,4.0
+159,Upper St. Clair,,,,,,,,,,,,,,,,,,,,,,,1820 Kent,389000.0,5.0,4.0
+160,Upper St. Clair,,,,,,,,,,,,,,,,,,,,,,,Lot 905 Turnberry Dr,315000.0,0.0,0.0
+161,Upper St. Clair,,,,,,,,,,,,,,,,,,,,,,,Lot 904 Turnberry Dr,320000.0,0.0,0.0
+162,Upper St. Clair,,,,,,,,,,,,,,,,,,,,,,,1893 Springmont Dr,519900.0,4.0,4.0
+163,Upper St. Clair,,,,,,,,,,,,,,,,,,,,,,,82 Ruthfred Dr,182000.0,3.0,2.0
+164,Upper St. Clair,,,,,,,,,,,,,,,,,,,,,,,2180 Clairmont Dr,419900.0,4.0,2.0
+165,Upper St. Clair,,,,,,,,,,,,,,,,,,,,,,,2429 Giant Oaks,319900.0,4.0,2.0
+166,Upper St. Clair,,,,,,,,,,,,,,,,,,,,,,,288 High Sierra Cir,299900.0,4.0,3.0
+167,Upper St. Clair,,,,,,,,,,,,,,,,,,,,,,,500 Miranda Rd,310000.0,3.0,2.0
+168,Upper St. Clair,,,,,,,,,,,,,,,,,,,,,,,2621 Quail Hl,458900.0,4.0,3.0
+169,Whitehall,,,,,,,,,,,,,,,,,,,,,,,1308 Varner,160000.0,4.0,2.0
+170,Whitehall,,,,,,,,,,,,,,,,,,,,,,,5079 S Psge,179900.0,3.0,2.0
+171,Whitehall,,,,,,,,,,,,,,,,,,,,,,,3189 Woodridge,169000.0,2.0,2.0
+172,Whitehall,,,,,,,,,,,,,,,,,,,,,,,5029 Brownsville Rd,185000.0,3.0,2.0
+173,Whitehall,,,,,,,,,,,,,,,,,,,,,,,227 Jill Dr,299900.0,4.0,2.0
+174,Whitehall,,,,,,,,,,,,,,,,,,,,,,,4826 Baptist Rd,169900.0,3.0,2.0
+175,Whitehall,,,,,,,,,,,,,,,,,,,,,,,4653 Sherwood Dr,195000.0,3.0,2.0
+176,Whitehall,,,,,,,,,,,,,,,,,,,,,,,71 Hennig Dr,185000.0,3.0,2.0
+177,Shaler,,,,,,,,,,,,,,,,,,,,,,,13 Scobbo Dr,226900.0,3.0,2.0
+178,Shaler,,,,,,,,,,,,,,,,,,,,,,,403 Louann St,249000.0,3.0,2.0
+179,Shaler,,,,,,,,,,,,,,,,,,,,,,,133 Lohengrin Dr,235000.0,3.0,2.0
+180,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,1190 Driftwood Dr,309900.0,4.0,2.0
+181,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,118 Marlin Dr,434900.0,5.0,3.0
+182,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,1394 Navahoe Dr,574900.0,4.0,4.0
+183,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,20 Ralston Pl,272500.0,3.0,2.0
+184,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,878 Bridgewater Dr,249900.0,4.0,2.0
+185,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,37 Carleton Dr,339000.0,4.0,3.0
+186,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,157 Stilwell Ct,479900.0,4.0,2.0
+187,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,441 Morrison,399000.0,3.0,2.0
+188,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,820 Osage Rd,995000.0,5.0,4.0
+189,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,358 Orchard Dr,210000.0,3.0,2.0
+190,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,651 Moreland,210000.0,3.0,2.0
+191,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,210 Arden Rd,239900.0,3.0,2.0
+192,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,432 Mapleton Ave,224000.0,3.0,2.0
+193,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,1014 Osage Rd,735000.0,5.0,4.0
+194,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,683 Oxford Blvd,174900.0,2.0,2.0
+195,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,853 Vermont Ave,229900.0,3.0,1.0
+196,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,229 Barth Ave,229900.0,3.0,1.0
+197,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,101 Lawncroft Ave Unit A4,130000.0,2.0,1.0
+198,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,225 Gilkeson Rd,195000.0,3.0,2.0
+199,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,28 Hazel,539900.0,4.0,2.0
+200,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,415 Duquesne Dr,264900.0,3.0,2.0
+201,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,337 Sunset Dr,375000.0,4.0,3.0
+202,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,349 Birch Ave,279900.0,3.0,1.0
+203,Mt. Lebanon,,,,,,,,,,,,,,,,,,,,,,,26 Nakoma Dr,694900.0,4.0,2.0
+204,Swissvale,,,,,,,,,,,,,,,,,,,,,,,7429 Park Ave,170000.0,5.0,0.0
+205,Swissvale,,,,,,,,,,,,,,,,,,,,,,,1400 Smokey Wood Dr #805,84900.0,2.0,1.0
+206,Swissvale,,,,,,,,,,,,,,,,,,,,,,,7005 Church St,149900.0,3.0,1.0
+207,Swissvale,,,,,,,,,,,,,,,,,,,,,,,2228 Woodstock Ave,119500.0,3.0,1.0
+208,Swissvale,,,,,,,,,,,,,,,,,,,,,,,2225 Lacrosse St,150000.0,2.0,1.0
+209,Swissvale,,,,,,,,,,,,,,,,,,,,,,,7526 Dickson St,89900.0,3.0,1.0
+210,Swissvale,,,,,,,,,,,,,,,,,,,,,,,2108 Hudson,165000.0,3.0,2.0
+211,Brentwood,,,,,,,,,,,,,,,,,,,,,,,3889 Delco Rd,90000.0,3.0,1.0
+212,Brentwood,,,,,,,,,,,,,,,,,,,,,,,2725 Pyramid Ave,159000.0,4.0,0.0
+213,Brentwood,,,,,,,,,,,,,,,,,,,,,,,209 Owendale Ave,167500.0,3.0,2.0
+214,Brentwood,,,,,,,,,,,,,,,,,,,,,,,344 Marylea Ave,49500.0,3.0,2.0
+215,Forest Hills Boro,,,,,,,,,,,,,,,,,,,,,,,502 Forest Ridge Dr,165000.0,2.0,2.0
+216,Forest Hills Boro,,,,,,,,,,,,,,,,,,,,,,,307 Avenue A,197500.0,6.0,0.0
+217,Forest Hills Boro,,,,,,,,,,,,,,,,,,,,,,,120 Legrande Dr,174900.0,3.0,2.0
+218,O'Hara,,,,,,,,,,,,,,,,,,,,,,,143 Riverview Ave,195000.0,4.0,2.0
+219,O'Hara,,,,,,,,,,,,,,,,,,,,,,,104 Kirkwood Dr,239000.0,3.0,2.0
+220,O'Hara,,,,,,,,,,,,,,,,,,,,,,,620 Arbor Ct,383000.0,3.0,3.0
+221,O'Hara,,,,,,,,,,,,,,,,,,,,,,,302 Oxbridge Ct,248000.0,2.0,2.0
+222,Ingram,,,,,,,,,,,,,,,,,,,,,,,328 Scotia St,129900.0,4.0,2.0
+223,Wilkinsburg,,,,,,,,,,,,,,,,,,,,,,,7319 Beacon Hill Dr,118600.0,2.0,2.0
+224,Wilkinsburg,,,,,,,,,,,,,,,,,,,,,,,417 Whitney Ave,119900.0,5.0,2.0
+225,Plum Boro,,,,,,,,,,,,,,,,,,,,,,,232 Shasta Dr,224900.0,4.0,2.0
+226,Plum Boro,,,,,,,,,,,,,,,,,,,,,,,325 Clements Rd,189900.0,3.0,1.0
+227,Plum Boro,,,,,,,,,,,,,,,,,,,,,,,434 Kathy Lynn,169900.0,3.0,2.0
+228,Plum Boro,,,,,,,,,,,,,,,,,,,,,,,5063 Ozark Dr,179500.0,3.0,2.0
+229,Plum Boro,,,,,,,,,,,,,,,,,,,,,,,1506 Abers Creek Rd,299900.0,5.0,2.0
+230,Plum Boro,,,,,,,,,,,,,,,,,,,,,,,1313 Plumdale,82000.0,2.0,2.0
+231,Plum Boro,,,,,,,,,,,,,,,,,,,,,,,4109 Impala Dr,197000.0,4.0,2.0
+232,Ross Twp,,,,,,,,,,,,,,,,,,,,,,,101 Merwood Dr,174900.0,3.0,2.0
+233,Ross Twp,,,,,,,,,,,,,,,,,,,,,,,105 Eighth Ave,168700.0,2.0,1.0
+234,Ross Twp,,,,,,,,,,,,,,,,,,,,,,,103 Candleway Dr,305000.0,4.0,3.0
+235,Ross Twp,,,,,,,,,,,,,,,,,,,,,,,73 York Dr,165000.0,2.0,2.0
+236,Ross Twp,,,,,,,,,,,,,,,,,,,,,,,160 Siebert Rd,224900.0,3.0,2.0
+237,Penn Hills,,,,,,,,,,,,,,,,,,,,,,,711 Southern Ave,89900.0,3.0,2.0
+238,Penn Hills,,,,,,,,,,,,,,,,,,,,,,,729 Veronica Dr,79900.0,2.0,1.0
+239,Penn Hills,,,,,,,,,,,,,,,,,,,,,,,1750 Williamsburg Pl,169900.0,3.0,2.0
+240,Penn Hills,,,,,,,,,,,,,,,,,,,,,,,748 Macbeth Dr,129900.0,3.0,2.0
+241,Penn Hills,,,,,,,,,,,,,,,,,,,,,,,217 Elfort Dr,83900.0,3.0,2.0
+242,Penn Hills,,,,,,,,,,,,,,,,,,,,,,,214 Anthon Dr,90000.0,4.0,2.0
+243,Penn Hills,,,,,,,,,,,,,,,,,,,,,,,403 Billy Dr,139900.0,3.0,2.0
+244,Penn Hills,,,,,,,,,,,,,,,,,,,,,,,27 Falkirk Dr,127900.0,3.0,2.0
+245,Penn Hills,,,,,,,,,,,,,,,,,,,,,,,7943 Dollman Rd,900000.0,7.0,4.0
+246,Penn Hills,,,,,,,,,,,,,,,,,,,,,,,316 Paris Rd,40000.0,4.0,2.0
+247,Penn Hills,,,,,,,,,,,,,,,,,,,,,,,468 Springdale Dr,59000.0,3.0,2.0
+248,Penn Hills,,,,,,,,,,,,,,,,,,,,,,,615 Lougeay Rd,40560.0,2.0,1.0
+249,Penn Hills,,,,,,,,,,,,,,,,,,,,,,,146 Garlow,119900.0,3.0,2.0
+250,South Side,,,,,,,,,,,,,,,,,,,,,,,1818 Sidney St,375000.0,3.0,2.0
+251,South Side,,,,,,,,,,,,,,,,,,,,,,,2002 Sarah St,321500.0,3.0,2.0
+252,South Side,,,,,,,,,,,,,,,,,,,,,,,121 S 19th St,239900.0,5.0,0.0
+253,South Side,,,,,,,,,,,,,,,,,,,,,,,3 Crossman St,144900.0,2.0,1.0
+254,South Side,,,,,,,,,,,,,,,,,,,,,,,1200 Sarah St,279000.0,0.0,0.0
+255,South Side,,,,,,,,,,,,,,,,,,,,,,,3128 Mary St,259000.0,3.0,2.0
+256,South Side,,,,,,,,,,,,,,,,,,,,,,,66 Pius St #301,239000.0,2.0,2.0
+257,South Side,,,,,,,,,,,,,,,,,,,,,,,2333 Larkins Way,207000.0,4.0,1.0
+258,South Side,,,,,,,,,,,,,,,,,,,,,,,81 S 15th St,499900.0,3.0,2.0
+259,South Side,,,,,,,,,,,,,,,,,,,,,,,1 Pius St Unit B6,289000.0,2.0,2.0
+260,South Side,,,,,,,,,,,,,,,,,,,,,,,1 Pius St Unit B4,299000.0,2.0,2.0
+261,South Side,,,,,,,,,,,,,,,,,,,,,,,2719 Sumner,112500.0,3.0,1.0
+262,Ohio Twp,,,,,,,,,,,,,,,,,,,,,,,1631 Roosevelt Rd,190000.0,3.0,2.0
+263,Mt Washington,,,,,,,,,,,,,,,,,,,,,,,112 Beltzhoover Ave,200000.0,4.0,3.0
+264,Mt Washington,,,,,,,,,,,,,,,,,,,,,,,1 Trimont Ln Unit 1110A,319000.0,2.0,2.0
+265,Mt Washington,,,,,,,,,,,,,,,,,,,,,,,14 Wills St,289889.0,3.0,2.0
+266,Mt Washington,,,,,,,,,,,,,,,,,,,,,,,177 Plymouth St,299900.0,3.0,2.0
+267,Mt Washington,,,,,,,,,,,,,,,,,,,,,,,432 Iberia St,149900.0,3.0,2.0
+268,Mt Washington,,,,,,,,,,,,,,,,,,,,,,,219C Grandview Ave,1200000.0,3.0,2.0
+269,Mt Washington,,,,,,,,,,,,,,,,,,,,,,,109 Westwood St,49900.0,2.0,1.0
+270,Mt Washington,,,,,,,,,,,,,,,,,,,,,,,405 Griffin St,49900.0,2.0,1.0
+271,Mt Washington,,,,,,,,,,,,,,,,,,,,,,,1836 Greenleaf St,29900.0,3.0,1.0
+272,Mt Washington,,,,,,,,,,,,,,,,,,,,,,,211 Wilbert St,138500.0,2.0,2.0
+273,Mt Washington,,,,,,,,,,,,,,,,,,,,,,,640 Science St,175000.0,0.0,0.0
+274,Downtown Pgh,,,,,,,,,,,,,,,,,,,,,,,941 Penn Ave #202,359000.0,2.0,2.0
+275,Downtown Pgh,,,,,,,,,,,,,,,,,,,,,,,2545 Penn Ave Ph 603,1255000.0,2.0,2.0
+276,Downtown Pgh,,,,,,,,,,,,,,,,,,,,,,,2545 Penn Ave Ph 600,1180000.0,2.0,2.0
+277,Downtown Pgh,,,,,,,,,,,,,,,,,,,,,,,2545 Penn Ave #501,618000.0,2.0,2.0
+278,Downtown Pgh,,,,,,,,,,,,,,,,,,,,,,,2545 Penn Ave #402,526600.0,2.0,2.0
+279,Downtown Pgh,,,,,,,,,,,,,,,,,,,,,,,2545 Penn Ave #305,578000.0,2.0,2.0
+280,Downtown Pgh,,,,,,,,,,,,,,,,,,,,,,,2545 Penn Ave #302,502000.0,2.0,2.0
+281,Downtown Pgh,,,,,,,,,,,,,,,,,,,,,,,151 Fort Pitt #805,365000.0,1.0,2.0
+282,Downtown Pgh,,,,,,,,,,,,,,,,,,,,,,,215 25th St #4,2298000.0,2.0,2.0
+283,Downtown Pgh,,,,,,,,,,,,,,,,,,,,,,,320 Fort Duquesne Blvd Unit 9J,198000.0,1.0,1.0
+284,Downtown Pgh,,,,,,,,,,,,,,,,,,,,,,,11 5th Ave #801,750000.0,2.0,2.0
+285,Downtown Pgh,,,,,,,,,,,,,,,,,,,,,,,951 Liberty Ave Unit 4B,314800.0,1.0,1.0
+286,Downtown Pgh,,,,,,,,,,,,,,,,,,,,,,,151 Fort Pitt Blvd #1403,588000.0,2.0,2.0
+287,Baldwin Boro,,,,,,,,,,,,,,,,,,,,,,,4921 Plymouth Rd,210000.0,3.0,2.0
+288,Baldwin Boro,,,,,,,,,,,,,,,,,,,,,,,26 Bonel,132000.0,3.0,2.0
+289,Baldwin Boro,,,,,,,,,,,,,,,,,,,,,,,2511 Michael Dr,220000.0,3.0,2.0
+290,Robinson Twp - NWA,,,,,,,,,,,,,,,,,,,,,,,149 Nottingham Dr,367500.0,4.0,2.0
+291,Robinson Twp - NWA,,,,,,,,,,,,,,,,,,,,,,,602 Wingate,224900.0,3.0,2.0
+292,Central North Side,,,,,,,,,,,,,,,,,,,,,,,914 Middle St,269900.0,3.0,2.0
+293,Central North Side,,,,,,,,,,,,,,,,,,,,,,,138 Parkhurst St,260000.0,3.0,2.0
+294,Central North Side,,,,,,,,,,,,,,,,,,,,,,,614 Taylor,574900.0,0.0,0.0
+295,Central North Side,,,,,,,,,,,,,,,,,,,,,,,145 Henderson St,314900.0,4.0,2.0
+296,Central North Side,,,,,,,,,,,,,,,,,,,,,,,521 W Jefferson St,615000.0,3.0,2.0
+297,Central North Side,,,,,,,,,,,,,,,,,,,,,,,519 W Jefferson St,615000.0,3.0,2.0
+298,Central North Side,,,,,,,,,,,,,,,,,,,,,,,517 W Jefferson St,615000.0,3.0,2.0
+299,Central North Side,,,,,,,,,,,,,,,,,,,,,,,1519 Monterey St,543543.0,4.0,2.0
+300,Central North Side,,,,,,,,,,,,,,,,,,,,,,,110 Alpine Ave,99900.0,3.0,2.0
+301,Central North Side,,,,,,,,,,,,,,,,,,,,,,,1522 Arch St,39900.0,0.0,0.0
+302,Scott Twp - SAL,,,,,,,,,,,,,,,,,,,,,,,1350 Greentree Rd,359000.0,3.0,3.0
+303,Scott Twp - SAL,,,,,,,,,,,,,,,,,,,,,,,2225 Swallow Hill Rd,219000.0,3.0,2.0
+304,Scott Twp - SAL,,,,,,,,,,,,,,,,,,,,,,,256 Orchard Spring Rd,142800.0,2.0,1.0
+305,Scott Twp - SAL,,,,,,,,,,,,,,,,,,,,,,,694 Robinwood Dr Unit A,114900.0,1.0,1.0
+306,McCandless,,,,,,,,,,,,,,,,,,,,,,,8012 Thompson Run Rd,399900.0,4.0,2.0
+307,McCandless,,,,,,,,,,,,,,,,,,,,,,,335 Mohican Ave,275000.0,3.0,2.0
+308,McCandless,,,,,,,,,,,,,,,,,,,,,,,604 Olde Ingomar Ct,162000.0,2.0,2.0
+309,McCandless,,,,,,,,,,,,,,,,,,,,,,,8380 Van Buren Dr,89900.0,3.0,2.0
+310,McCandless,,,,,,,,,,,,,,,,,,,,,,,895 Beacon Ln,369900.0,3.0,2.0
+311,Castle Shannon,,,,,,,,,,,,,,,,,,,,,,,2882 E May St,256900.0,2.0,2.0
+312,Castle Shannon,,,,,,,,,,,,,,,,,,,,,,,2907 Belleville St,119900.0,3.0,2.0
+313,Castle Shannon,,,,,,,,,,,,,,,,,,,,,,,3830 Lyndell St,147900.0,3.0,2.0
+314,Castle Shannon,,,,,,,,,,,,,,,,,,,,,,,Lots 41-44 Havelock,7000.0,0.0,0.0
+315,E Pittsburgh,,,,,,,,,,,,,,,,,,,,,,,6621 Tennis St,16960.0,3.0,0.0
+316,Kilbuck Twp,,,,,,,,,,,,,,,,,,,,,,,32 Newgate Rd,1125000.0,5.0,6.0
+317,West View,,,,,,,,,,,,,,,,,,,,,,,30 Lehigh Ave,175000.0,3.0,1.0
+318,West View,,,,,,,,,,,,,,,,,,,,,,,119 Frankfort Ave,119000.0,3.0,1.0
+319,Observatory Hill,,,,,,,,,,,,,,,,,,,,,,,19 Bonvue St,100000.0,3.0,22.0
+320,Observatory Hill,,,,,,,,,,,,,,,,,,,,,,,3663 Baytree St,179900.0,4.0,2.0
+321,Bellevue,,,,,,,,,,,,,,,,,,,,,,,315 Lincoln Ave,100000.0,8.0,3.0
+322,Bellevue,,,,,,,,,,,,,,,,,,,,,,,549 Teece,149900.0,4.0,2.0
+323,Bellevue,,,,,,,,,,,,,,,,,,,,,,,235 N Balph Ave,134900.0,3.0,1.0
+324,Baldwin Twp,,,,,,,,,,,,,,,,,,,,,,,2217 Romine Ave,149900.0,3.0,2.0
+325,South Park,,,,,,,,,,,,,,,,,,,,,,,1186 Snee Dr,447500.0,4.0,4.0
+326,Pleasant Hills,,,,,,,,,,,,,,,,,,,,,,,123 Winifred Dr,164000.0,2.0,2.0
+327,Pleasant Hills,,,,,,,,,,,,,,,,,,,,,,,106 Pleasant View Ct,425000.0,4.0,2.0
+328,Pleasant Hills,,,,,,,,,,,,,,,,,,,,,,,158 Delano,239000.0,4.0,2.0
+329,Pleasant Hills,,,,,,,,,,,,,,,,,,,,,,,110 W Bruceton Rd,18500.0,0.0,0.0
+330,Lincoln-Larimer,,,,,,,,,,,,,,,,,,,,,,,7028 Lemington Ave,22500.0,0.0,0.0
+331,Lincoln-Larimer,,,,,,,,,,,,,,,,,,,,,,,7246 Campania Ave,149900.0,3.0,2.0
+332,Lincoln-Larimer,,,,,,,,,,,,,,,,,,,,,,,6517 Dean St,269900.0,9.0,0.0
+333,Indiana TWP - NAL,,,,,,,,,,,,,,,,,,,,,,,117 Walnut Ridge Dr,300000.0,4.0,2.0
+334,Dormont,,,,,,,,,,,,,,,,,,,,,,,1250 Arkansas Ave,84900.0,3.0,1.0
+335,Reserve,,,,,,,,,,,,,,,,,,,,,,,303 Charlemma,164900.0,3.0,2.0
+336,Greentree,,,,,,,,,,,,,,,,,,,,,,,1107 Greentree Rd,249900.0,2.0,2.0
+337,Neville Twp,,,,,,,,,,,,,,,,,,,,,,,7410 Grand Ave,169500.0,4.0,0.0
+338,Wilkins Twp,,,,,,,,,,,,,,,,,,,,,,,206 Sunset Dr,299900.0,3.0,3.0
+339,Blackridge,,,,,,,,,,,,,,,,,,,,,,,2040 Kendon Dr,62731.0,3.0,1.0
+340,Hill District,,,,,,,,,,,,,,,,,,,,,,,1715 Bedford Ave,129000.0,8.0,0.0
+341,Hill District,,,,,,,,,,,,,,,,,,,,,,,3369 Milwaukee St,59900.0,4.0,2.0
+342,Marshall Shadeland,,,,,,,,,,,,,,,,,,,,,,,3246 Langfitt Ave,112000.0,2.0,1.0
+343,Marshall Shadeland,,,,,,,,,,,,,,,,,,,,,,,2507 Brighton Rd,37000.0,3.0,1.0
+344,Marshall Shadeland,,,,,,,,,,,,,,,,,,,,,,,1306 Superior Ave,79900.0,3.0,1.0
+345,Nottingham,,,,,,,,,,,,,,,,,,,,,,,0 Sugar Run,799000.0,0.0,0.0
